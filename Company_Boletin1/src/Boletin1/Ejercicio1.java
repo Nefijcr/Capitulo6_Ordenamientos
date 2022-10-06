@@ -1,6 +1,6 @@
 /*
  * Pedir los coeficientes de una ecuacion de 2° grado, y muestre sus soluciones reales. 
-Si no existen, debe indicarlo
+Si no existen, debe indicarlo.
  */
 package Boletin1;
 import java.util.Scanner;
