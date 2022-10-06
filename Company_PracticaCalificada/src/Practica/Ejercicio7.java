@@ -22,7 +22,7 @@ public class Ejercicio7 {
         sum=sum+notas[con]; con++;
         }
         promedio=sum/5;
-        
+        System.out.println("El promedio es : "+promedio );
         }
     }
     
