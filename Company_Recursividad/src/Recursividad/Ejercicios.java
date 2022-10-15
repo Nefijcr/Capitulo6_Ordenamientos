@@ -8,7 +8,7 @@ package Recursividad;
  *
  * @author nefij
  */
-public class Ejercicio1 {
+public class Ejercicios {
 
     /**
      * @param args the command line arguments
